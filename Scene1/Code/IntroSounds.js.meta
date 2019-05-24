@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: ce3df9481984ea44faec1ce3a0f4938c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - intro: {fileID: 8300000, guid: 0d235c4a29bdf98479424e20f392e1c3, type: 3}
+  - tutorialStart: {fileID: 8300000, guid: 4d6f29929914b834dab53f21b4f4e31f, type: 3}
+  - touchTheOrb: {fileID: 8300000, guid: 671f60521de4495449a9a234f09d04e0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

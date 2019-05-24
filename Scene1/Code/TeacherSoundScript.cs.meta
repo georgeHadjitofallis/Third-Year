@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b36ae41c8eca1964fa5b4cce732b6903
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - swipe_left: {fileID: 8300000, guid: fa9423d57ed677d4cbfd79f11fe05e9a, type: 3}
+  - swipe_right: {fileID: 8300000, guid: d542fca95ae690347835e4ab562c8c44, type: 3}
+  - walk: {fileID: 8300000, guid: 2b6ca7628969e504fa6109f9682ef48b, type: 3}
+  - walk_back: {fileID: 8300000, guid: ec1fccfc9043f334a9114c4a013e397e, type: 3}
+  - try_again: {fileID: 8300000, guid: ab3d1899ec34ce24bb850763b7762431, type: 3}
+  - push: {fileID: 8300000, guid: f95b76589d6187d4aa04ea07733483e9, type: 3}
+  - touch_gate: {fileID: 8300000, guid: 282de7db5f82ae34d8be191a2e629eba, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
