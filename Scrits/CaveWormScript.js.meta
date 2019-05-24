@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c431d1ed1832d4f478c2c128239af2fa
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerTransform: {instanceID: 0}
+  - orbPosition: {fileID: 100000, guid: ed26d9813b2ed4b47ad7342617985d0f, type: 2}
+  - breathFire: {fileID: 100008, guid: ddbed9182db4b7445aaf907b24d9b4ba, type: 2}
+  - playerObject: {instanceID: 0}
+  - orbHolder: {fileID: 100002, guid: 59ca04d4861aeb74aa067a310e2e1027, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
